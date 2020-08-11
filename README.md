@@ -1,0 +1,2 @@
+# Twitter
+ Cyberbullying and hate speech has seen a rise in recent years, with internet trolls being able to adversely affect lives without repercussion. Especially in today’s rapidly changing online environment, it is difficult for manual moderation to keep up with the pace of content being generated, and equally hard for automated systems to remain relevant. The objective of this project was to build a robust hate speech classifier for twitter, one of the biggest social media platforms, achieving better than state of the art performance on the selected datasets.
